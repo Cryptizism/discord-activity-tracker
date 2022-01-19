@@ -1,0 +1,29 @@
+{
+  "name": "discord-activity-tracker",
+  "version": "1.0.0",
+  "description": "A discord bot that holds data on the activity of your members",
+  "main": "index.js",
+  "scripts": {
+    "test-website": "node ./website/bin/www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cryptizism/discord-activity-tracker.git"
+  },
+  "author": "https://github.com/Cryptizism",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/Cryptizism/discord-activity-tracker/issues"
+  },
+  "homepage": "https://github.com/Cryptizism/discord-activity-tracker#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "debug": "~2.6.9",
+    "discord.js": "^13.6.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "http-errors": "~1.6.3",
+    "morgan": "~1.9.1",
+    "sqlite3": "^5.0.2"
+  }
+}
