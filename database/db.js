@@ -19,7 +19,7 @@ module.exports = {
         });
     },
     insert: function(guildId, params, data){
-        db.run(`INSERT INTO ${guildId}(${params.toString}) VALUES(${data.toString})`, (err) => {
+        db.run(`INSERT INTO ${guildId}(${params.toString}) VALUES(${data.join(', ')})`, (err) => {
             if (err) {console.error(err.message); }
             console.log(`Row inserted successfully.`);
         });
