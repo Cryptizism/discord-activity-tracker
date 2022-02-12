@@ -7,9 +7,9 @@
 - [Introduction](https://github.com/Cryptizism/discord-activity-tracker#Introduction)
 - [Setup](https://github.com/Cryptizism/discord-activity-tracker#Setup)
 - [Features](https://github.com/Cryptizism/discord-activity-tracker#Features)
-  - [Front End](https://github.com/Cryptizism/discord-activity-tracker#Front%20End)
-  - [Back End](https://github.com/Cryptizism/discord-activity-tracker#Back%20End)
-  - [Discord Bot](https://github.com/Cryptizism/discord-activity-tracker#Discord%20Bot)
+  - [Front End](https://github.com/Cryptizism/discord-activity-tracker#Front-End)
+  - [Back End](https://github.com/Cryptizism/discord-activity-tracker#Back-End)
+  - [Discord Bot](https://github.com/Cryptizism/discord-activity-tracker#Discord-Bot)
 - [Road Map](https://github.com/Cryptizism/discord-activity-tracker#Roadmap) 
 
 ## Introduction
