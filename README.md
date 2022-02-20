@@ -53,6 +53,8 @@ TBD
 - [ ] Build the HTML and CSS for the website
 - [ ] Deal with the discord Auth Flow for the website
 - [ ] Link the database and website
+- [ ] Allow for the database to be saved as a .csv spreadsheetfile
+- [ ] Plot graph with points that show the data from the database
 - [ ] Release the BETA
 - [ ] (Optional) Allow the capturing of games
 - [ ] (Optional) Allow the capturing of message activity
