@@ -3,6 +3,8 @@ const initDiscord = require("./discord/bot.js");
 require('dotenv').config();
 const { Client, Intents, MessageEmbed } = require('discord.js');
 
+//Discord side
+
 const client = new Client({intents: [Intents.FLAGS.GUILDS,Intents.FLAGS.GUILD_MESSAGES,Intents.FLAGS.GUILD_MEMBERS,Intents.FLAGS.GUILD_WEBHOOKS,Intents.FLAGS.GUILD_PRESENCES,]});
 
 client.on('ready', () => {
@@ -17,3 +19,9 @@ client.on('messageCreate', async message => {
 });
 
 client.login(process.env.BOT_TOKEN);
+
+
+//Website side
+
+
+//Database side
