@@ -1,4 +1,4 @@
-# discord-activity-tracker
+# discord-activity-tracker (WORK IN PROGRESS)
 
 ![GitHub top language](https://img.shields.io/github/languages/top/Cryptizism/discord-activity-tracker) ![GitHub language count](https://img.shields.io/github/languages/count/Cryptizism/discord-activity-tracker) [![GitHub issues](https://img.shields.io/github/issues/Cryptizism/discord-activity-tracker)](https://github.com/Cryptizism/discord-activity-tracker/issues) [![GitHub license](https://img.shields.io/github/license/Cryptizism/discord-activity-tracker) ](https://github.com/Cryptizism/discord-activity-tracker/blob/main/LICENSE) ![GitHub last commit](https://img.shields.io/github/last-commit/Cryptizism/discord-activity-tracker)
 
